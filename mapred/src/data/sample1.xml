@@ -1,0 +1,195 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.31.0-wmf.26</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>AccessibleComputing</title>
+    <ns>0</ns>
+    <id>10</id>
+    <redirect title="Computer accessibility" />
+    <revision>
+      <id>767284433</id>
+      <parentid>631144794</parentid>
+      <timestamp>2017-02-25T00:30:28Z</timestamp>
+      <contributor>
+        <username>Godsy</username>
+        <id>23257138</id>
+      </contributor>
+      <comment>[[Template:This is a redirect]] has been deprecated, change to [[Template:Redirect category shell]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Computer accessibility]]
+
+{{Redirect category shell|
+{{R from move}}
+{{R from CamelCase}}
+{{R unprintworthy}}
+}}</text>
+      <sha1>ds1crfrjsn7xv73djcs4e4aq9niwanx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Anarchism</title>
+    <ns>0</ns>
+    <id>12</id>
+    <revision>
+      <id>832677690</id>
+      <parentid>832500008</parentid>
+      <timestamp>2018-03-27T11:23:30Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Rescuing 0 sources and tagging 1 as dead. #IABot (v1.6.5) ([[User:Feminist|Feminist]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Redirect2|Anarchist|Anarchists|the fictional character|Anarchist (comics)|other uses|Anarchists (disambiguation)}}
+{{pp-move-indef}}
+{{Use British English|date=January 2014}}
+{{Anarchism sidebar}}
+{{Basic forms of government}} second three
+'''Anarchism''' is [[Category:Social]]</text>
+      <sha1>5hqorlibbd2sp0mvkw38bvrx47ut4q4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>AfghanistanHistory</title>
+    <ns>0</ns>
+    <id>13</id>
+    <redirect title="History of Afghanistan" />
+    <revision>
+      <id>783865149</id>
+      <parentid>74466652</parentid>
+      <timestamp>2017-06-05T04:18:18Z</timestamp>
+      <contributor>
+        <username>Tom.Reding</username>
+        <id>9784415</id>
+      </contributor>
+      <minor />
+      <comment>+{{Redirect category shell}} using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[History of Afghanistan]]
+
+{{Redirect category shell|1=
+{{R from CamelCase}}
+}}</text>
+      <sha1>iv7s0lr40b17x33tfb0caa2g5bplgrk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>AfghanistanGeography</title>
+    <ns>0</ns>
+    <id>14</id>
+    <redirect title="Geography of Afghanistan" />
+    <revision>
+      <id>783865160</id>
+      <parentid>407008307</parentid>
+      <timestamp>2017-06-05T04:18:23Z</timestamp>
+      <contributor>
+        <username>Tom.Reding</username>
+        <id>9784415</id>
+      </contributor>
+      <minor />
+      <comment>+{{Redirect category shell}} using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Geography of Afghanistan]]
+
+{{Redirect category shell|1=
+{{R from CamelCase}}
+}}</text>
+      <sha1>39r4w8qg62iexlyskf0ga3tblagtl8x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>AfghanistanPeople</title>
+    <ns>0</ns>
+    <id>15</id>
+    <redirect title="Demographics of Afghanistan" />
+    <revision>
+      <id>783865293</id>
+      <parentid>616420354</parentid>
+      <timestamp>2017-06-05T04:19:42Z</timestamp>
+      <contributor>
+        <username>Tom.Reding</username>
+        <id>9784415</id>
+      </contributor>
+      <minor />
+      <comment>+{{Redirect category shell}} using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Demographics of Afghanistan]]
+
+{{Redirect category shell|1=
+{{R from CamelCase}}
+}}</text>
+      <sha1>fncm9bh9l25bmvyzq21zopijbuqq3nd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>AfghanistanCommunications</title>
+    <ns>0</ns>
+    <id>18</id>
+    <redirect title="Communications in Afghanistan" />
+    <revision>
+      <id>783865299</id>
+      <parentid>74466499</parentid>
+      <timestamp>2017-06-05T04:19:45Z</timestamp>
+      <contributor>
+        <username>Tom.Reding</username>
+        <id>9784415</id>
+      </contributor>
+      <minor />
+      <comment>+{{Redirect category shell}} using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Communications in Afghanistan]]
+
+{{Redirect category shell|1=
+{{R from CamelCase}}
+}}</text>
+      <sha1>q8gdi8070w6yitd4hqev68pn5niog3x</sha1>
+    </revision>
+  </page>
+  <page>
